@@ -120,7 +120,7 @@ class Deposit(APIView):
                 data={"deposit": new_deposit_serializer.data}
             )
         except Exception:
-            return ApiErrorResponse(message=Exception)
+            return ApiErrorResponse(message="Deposit fail!")
 
 
 class Withdrawal(APIView):

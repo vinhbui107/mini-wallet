@@ -4,6 +4,8 @@ This is an API backend service, for managing a simple mini wallet.
 
 ## Database Design
 
+## ![Mini Wallet DB](https://github.com/vinhbui107/mini-wallet/blob/main/images/mini_wallet_db.png)
+
 ## API Design
 
 This api followed by [Mini Wallet Exercise](https://documenter.getpostman.com/view/8411283/SVfMSqA3?version=latest)
